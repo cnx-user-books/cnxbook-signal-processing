@@ -1,0 +1,16 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="humera rafique">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10243</md:content-id>
+    <md:title>Signal Processing</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/1.0">Creative Commons Attribution License 1.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>0333a341-9b19-403e-9926-5680ef51dc6d</md:uuid>
+<md:slug>signal-processing</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Fourier Analysis</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
